@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="90" height="90" viewBox="0 0 125 125">
+  <g id="aggregate" transform="translate(-1 -1)">
+    <path id="路径_7907" data-name="路径 7907" d="M29.226,21.161H37.29v36.29H69.548V53.419H41.323V17.129h-12.1V1H1V37.29H29.226Zm-4.032,12.1H5.032V5.032H25.194Z" fill="#fff"/>
+    <path id="路径_7908" data-name="路径 7908" d="M29.226,43.161H69.548V39.129H29.226V23H1V59.29H29.226Zm-4.032,12.1H5.032V27.032H25.194Z" transform="translate(0 22.355)" fill="#fff"/>
+    <path id="路径_7909" data-name="路径 7909" d="M81.355,37.692,76.4,36.042l2.335-4.667L70.98,23.617,66.315,25.95,64.663,21H53.694l-1.651,4.95-4.665-2.333-7.758,7.758,2.335,4.667L37,37.692v10.97l4.952,1.649-2.335,4.667,7.758,7.758L52.04,60.4l1.651,4.952h10.97l1.651-4.95,4.665,2.333,7.758-7.758L76.4,50.313l4.954-1.649Zm-4.032,8.065L72.69,47.3l-.339.9c-.1.256-.2.508-.308.756l-.391.873,2.179,4.359-3.647,3.647-4.359-2.179-.873.391c-.252.113-.506.212-.764.312L63.3,56.7l-1.542,4.625H56.6L55.054,56.7l-.889-.341c-.258-.1-.514-.2-.764-.312l-.873-.391-4.359,2.179-3.647-3.647L46.7,49.827l-.391-.873c-.111-.248-.212-.5-.308-.756l-.339-.9-4.631-1.544V40.6l4.633-1.544.339-.9c.1-.256.2-.508.308-.756l.391-.873-2.179-4.359,3.647-3.647L52.53,30.7l.873-.391c.252-.113.506-.212.764-.312l.889-.341L56.6,25.032h5.159L63.3,29.657,64.19,30c.258.1.514.2.764.313l.873.391,4.359-2.179,3.647,3.647-2.179,4.359.391.873c.111.248.212.5.308.756l.339.9L77.323,40.6Z" transform="translate(36.581 20.323)" fill="#fff"/>
+    <path id="路径_7910" data-name="路径 7910" d="M53.081,27A10.081,10.081,0,1,0,63.161,37.081,10.092,10.092,0,0,0,53.081,27Zm0,16.129a6.048,6.048,0,1,1,6.048-6.048A6.056,6.056,0,0,1,53.081,43.129Z" transform="translate(42.677 26.419)" fill="#fff"/>
+    <path id="路径_7911" data-name="路径 7911" d="M46.343,1,25,22.343V49.387h4.032V25.194H49.194V5.032H97.581V121.968H29.032V77.613H25V126h76.613V1ZM31.883,21.161,45.161,7.883V21.161Z" transform="translate(24.387)" fill="#fff"/>
+    <path id="路径_7912" data-name="路径 7912" d="M79.323,5H39V21.129H79.323ZM75.29,17.1H43.032V9.032H75.29Z" transform="translate(38.613 4.065)" fill="#fff"/>
+    <path id="路径_7913" data-name="路径 7913" d="M29,15h4.032v4.032H29Z" transform="translate(28.452 14.226)" fill="#fff"/>
+    <path id="路径_7914" data-name="路径 7914" d="M33,15H85.419v4.032H33Z" transform="translate(32.516 14.226)" fill="#fff"/>
+    <path id="路径_7915" data-name="路径 7915" d="M65.1,65.1V53H53V65.1Zm-8.065-8.065h4.032v4.032H57.032Z" transform="translate(52.839 52.839)" fill="#fff"/>
+    <path id="路径_7916" data-name="路径 7916" d="M57.1,65.1V53H45V65.1Zm-8.065-8.065h4.032v4.032H49.032Z" transform="translate(44.71 52.839)" fill="#fff"/>
+    <path id="路径_7917" data-name="路径 7917" d="M49.1,65.1V53H37V65.1Zm-8.065-8.065h4.032v4.032H41.032Z" transform="translate(36.581 52.839)" fill="#fff"/>
+    <path id="路径_7918" data-name="路径 7918" d="M29,65.1H41.1V53H29Zm4.032-8.065h4.032v4.032H33.032Z" transform="translate(28.452 52.839)" fill="#fff"/>
+    <path id="路径_7919" data-name="路径 7919" d="M29,49h4.032v4.032H29Z" transform="translate(28.452 48.774)" fill="#fff"/>
+    <path id="路径_7920" data-name="路径 7920" d="M33,49H85.419v4.032H33Z" transform="translate(32.516 48.774)" fill="#fff"/>
+    <path id="路径_7921" data-name="路径 7921" d="M29,45H89.484v4.032H29Z" transform="translate(28.452 44.71)" fill="#fff"/>
+    <path id="路径_7922" data-name="路径 7922" d="M5,49H17.1v4.032H5Z" transform="translate(4.065 48.774)" fill="#fff"/>
+    <path id="路径_7923" data-name="路径 7923" d="M5,53H17.1v4.032H5Z" transform="translate(4.065 52.839)" fill="#fff"/>
+    <path id="路径_7924" data-name="路径 7924" d="M5,57H17.1v4.032H5Z" transform="translate(4.065 56.903)" fill="#fff"/>
+    <path id="路径_7925" data-name="路径 7925" d="M5,27H17.1v4.032H5Z" transform="translate(4.065 26.419)" fill="#fff"/>
+    <path id="路径_7926" data-name="路径 7926" d="M5,31H17.1v4.032H5Z" transform="translate(4.065 30.484)" fill="#fff"/>
+    <path id="路径_7927" data-name="路径 7927" d="M5,35H17.1v4.032H5Z" transform="translate(4.065 34.548)" fill="#fff"/>
+    <path id="路径_7928" data-name="路径 7928" d="M5,5H17.1V9.032H5Z" transform="translate(4.065 4.065)" fill="#fff"/>
+    <path id="路径_7929" data-name="路径 7929" d="M5,9H17.1v4.032H5Z" transform="translate(4.065 8.129)" fill="#fff"/>
+    <path id="路径_7930" data-name="路径 7930" d="M5,13H17.1v4.032H5Z" transform="translate(4.065 12.194)" fill="#fff"/>
+    <path id="路径_7931" data-name="路径 7931" d="M69.548,35H37.29V71.29H29.226V55.161H1v36.29H29.226V75.323h12.1V39.032H69.548ZM25.194,87.419H5.032V59.194H25.194Z" transform="translate(0 34.548)" fill="#fff"/>
+  </g>
+</svg>
